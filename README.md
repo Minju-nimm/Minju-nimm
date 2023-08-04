@@ -9,12 +9,14 @@ using natural language 👄 and multimodal data. :eyes:
     
 <p align="center"><img src ="https://i.esdrop.com/d/f/3uJKEwVXJL/waWY0cxrll.gif" width="300" /></p>
 
+<br />
+
 <h3 align="center">🌈 Contact Me 🌈</h3>
 
 [![Mail](https://img.shields.io/badge/minjunimm@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](minjunimm@gmail.com)
 [![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://hygge-wavy.tistory.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=flat-square&logo=k&logoColor=white)](https://www.kaggle.com/minjunim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](@gonsta_juu_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](@gongsta_juu_)
 
 <br />
 
