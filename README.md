@@ -3,7 +3,7 @@
 
 I majored in Psychology and Data Science.
 
-I am interested in human behavior research, like sentiment analysis, :satisfied::cry:
+I am interested in human behavior research
 
 using natural language 👄 and multimodal data. :eyes: 
     
