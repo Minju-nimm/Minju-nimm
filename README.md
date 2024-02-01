@@ -16,7 +16,6 @@ using natural language 👄 and multimodal data. :eyes:
 [![Mail](https://img.shields.io/badge/minjunimm@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](minjunimm@gmail.com)
 [![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://hygge-wavy.tistory.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=flat-square&logo=k&logoColor=white)](https://www.kaggle.com/minjunim)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gongsta_juu_)
 
 <br />
 
