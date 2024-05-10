@@ -3,7 +3,7 @@
 
 I majored in Psychology and Data Science.
 
-I am interested in AI-human Interaction using natural language 👄.
+I am interested in Human-AI Interaction using natural language 👄.
 
     
 <p align="center"><img src ="https://i.esdrop.com/d/f/3uJKEwVXJL/waWY0cxrll.gif" width="300" /></p>
