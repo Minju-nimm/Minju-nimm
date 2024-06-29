@@ -12,7 +12,7 @@ I am interested in Human-AI Interaction using natural language 👄.
 
 Specifically, I am intrigued by human-like LLMs and 
 
-Generative Agents via prompt engineering.
+Generative Agents.
 
 <br />
 
