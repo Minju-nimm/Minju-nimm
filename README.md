@@ -1,16 +1,15 @@
 <div align="center">
 <h3 align="center">Hello ! I'm Minju Kim :seedling:</h3>
 
+```
 I am a passionate Master’s student at Chung-Ang University. 
 My research focuses on Natural Language Processing and Human-AI Interaction(HAI). 
 While majoring in Psychology and Data Science, I became fascinated by how AI can be utilized to benefit humans.
 
 Currently, I am particularly interested in developing LLM agents utilizing persona!
-
+```
     
 <p align="center"><img src ="https://i.esdrop.com/d/f/3uJKEwVXJL/waWY0cxrll.gif" width="300" /></p>
-
-<br />
 
 <br />
 
