@@ -1,6 +1,8 @@
 <div align="center">
 <h3 align="center">Hello ! I'm Minju Kim :seedling:</h3>
 
+<p align="center"><img src ="https://i.esdrop.com/d/f/3uJKEwVXJL/waWY0cxrll.gif" width="300" /></p>
+
 ```
 I am a passionate Master’s student at Chung-Ang University. 
 My research focuses on Natural Language Processing and Human-AI Interaction(HAI). 
@@ -8,8 +10,6 @@ While majoring in Psychology and Data Science, I became fascinated by how AI can
 
 Currently, I am particularly interested in developing LLM agents utilizing persona!
 ```
-    
-<p align="center"><img src ="https://i.esdrop.com/d/f/3uJKEwVXJL/waWY0cxrll.gif" width="300" /></p>
 
 <br />
 
@@ -22,7 +22,13 @@ Currently, I am particularly interested in developing LLM agents utilizing perso
 
 <br />
 
-<p align="center"><img src ="https://media.tenor.com/Qu46-3ANACUAAAAC/judy-hopps-driving.gif")></p>
+<p align="center">
+  <img src="https://media.tenor.com/Qu46-3ANACUAAAAC/judy-hopps-driving.gif" style="width: 500px; height: auto;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9761e55e-1b53-4a63-a9d2-107941ed83c9" style="width: 500px; height: auto;">
+</p>
 
 </div>
 
