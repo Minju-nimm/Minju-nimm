@@ -8,7 +8,7 @@ I am a passionate Master’s student at Chung-Ang University.
 My research focuses on Natural Language Processing and Human-AI Interaction(HAI). 
 While majoring in Psychology and Data Science, I became fascinated by how AI can be utilized to benefit humans.
 
-Currently, I am particularly interested in developing LLM agents utilizing persona!
+Currently, I’m especially interested in dialog systems and personalized agents!
 ```
 
 <br />
